@@ -1,1 +1,1 @@
-The data for this project can be found in https://www.rideindego.com/about/data/. 
+The data for this project can be found at https://www.rideindego.com/about/data/. 
